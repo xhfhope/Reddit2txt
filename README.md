@@ -1,11 +1,11 @@
 # XHF-Reddit2txt
 
-Input username and this py3 script will fetch a user's 1000 previous Reddit posts in new, hot, and top, and then output the comments into a text file.
+This Python3 script will retrieve (or fetch) a user's Reddit posts in new, hot, or top. The user can then choose a text file to output the comments to. If any comment already exists in the text file, it will not be added. 
 
 Info:
 
-1. Failsafes exist for invalid usernames.
+1. Failsafes exist for invalid inputs.
 
-2. You can include '.txt' when inputting a desired filename, but you don't have to. 
- 
-3. If a filename already exists, the script will scan that file for a comment before outputting a fetched (or retrieved) comment.
+2. You can input your filename with or without its file extension (e.g. data.txt). The edited file will always have a .txt extension.
+
+3. Please contact me at xhfhope@gmail.com with ideas, comments, and possible improvements.
